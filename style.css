@@ -128,6 +128,14 @@ section p {
     position: relative;
 }
 
+#background_part_5{
+    background-color: #204235;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 #part1{
     display: flex;
     flex-wrap: wrap;
